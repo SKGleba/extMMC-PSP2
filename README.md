@@ -1,5 +1,5 @@
 # extMMC-PSP2
-External NAND creator/manager for Playstation Vita/TV
+External NAND/Dual NAND toolset for PSP2
 # Requirements
 - Basic:
   - PSP2 must have the legacy mode flag set.
